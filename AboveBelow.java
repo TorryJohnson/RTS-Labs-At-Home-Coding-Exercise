@@ -1,6 +1,6 @@
-public class Above_And_Below{
+public class AboveBelow{
 
-	public static void Array_2_InitValue_Check(int initN, int[] arrN){
+	public static void Array_InitValue_Check(int initN, int[] arrN){
 		int aboveN = 0;
 		int belowN = 0;
 
